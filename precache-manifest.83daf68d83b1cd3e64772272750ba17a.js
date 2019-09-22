@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/vkminiappfirst/static/js/runtime~main.e6d0037b.js"
   },
   {
-    "revision": "d72b25e26a818e70b05e",
-    "url": "/vkminiappfirst/static/js/main.1f9687d9.chunk.js"
+    "revision": "44fa9a37c60ba541c06d",
+    "url": "/vkminiappfirst/static/js/main.e598aa4c.chunk.js"
   },
   {
-    "revision": "cd1fe3fe12faf60a6ad3",
-    "url": "/vkminiappfirst/static/js/2.7d935c28.chunk.js"
+    "revision": "76f2a16ae42f770a69a2",
+    "url": "/vkminiappfirst/static/js/2.bd03fe5c.chunk.js"
   },
   {
-    "revision": "d72b25e26a818e70b05e",
+    "revision": "44fa9a37c60ba541c06d",
     "url": "/vkminiappfirst/static/css/main.02774a71.chunk.css"
   },
   {
-    "revision": "cd1fe3fe12faf60a6ad3",
+    "revision": "76f2a16ae42f770a69a2",
     "url": "/vkminiappfirst/static/css/2.ef0c48ef.chunk.css"
   },
   {
-    "revision": "97fc1af5a98176ad642673c428ed0003",
+    "revision": "6a6213eb2097bda28a116947a7b565a4",
     "url": "/vkminiappfirst/index.html"
   }
 ];
